@@ -25,4 +25,4 @@ A game of tic-tac-toe.
 2. Winning conditions - I didn't know how to compare the two arrays (Player & Winning condition).
 
 ### Learning points
-1. I used `getElementBygetElementByTag` for the first challenge and from this I referenced each element through a for loop as ths `...ElementByTag` is an array. 
+1. I used `getElementBygetElementByTag` for the first challenge. From this, I referenced each element through a `for` loop as this `getElementBygetElementByTag` is an array. 
